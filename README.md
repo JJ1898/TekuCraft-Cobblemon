@@ -1,0 +1,1 @@
+Welcome to the TekuCraft: Cobblemon To-Do tracker and Issue log. If you have a problem or idea for the server, feel free to submit an Issue. This is also where I will keep a list of TODO items that need to get done on both the server and the client.
